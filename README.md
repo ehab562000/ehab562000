@@ -11,7 +11,7 @@
 ---
 
 ### 🌟 About Me
-I am a **Junior Data Analyst** with a strong technical stack in Power BI, SQL, and Python. I leverage my professional background as a **Graphic Designer (Photoshop & Illustrator)** to create data visualizations that are not only accurate but also visually compelling and easy to interpret.
+I am a ** Data Analyst** with a strong technical stack in Power BI, SQL, and Python. I leverage my professional background as a **Graphic Designer (Photoshop & Illustrator)** to create data visualizations that are not only accurate but also visually compelling and easy to interpret.
 
 * 🚀 **Seeking Opportunities:** Currently looking for an Internship or Entry-level Data Analyst role to apply my analytical and design skills.
 * 🤖 **Prompt Engineering:** Utilizing AI prompting to streamline data cleaning and enhance analysis efficiency.
